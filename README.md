@@ -1,5 +1,11 @@
-### Hi there 👋
+# wawa!
 
+uh sorry, I mean, welcome to my profile 😁. So err.... this thing still in WIP. In a meanwhile, you can visit :
+* ▶[My YouTube Channel](https://youtube.com/Smankusors) (I'm ~dead~ not dead...., but needs some motivations)
+* ⚒[My Projects](https://smankusors.com/projects)
+* 🚀[My Open Source Contributions](https://smankusors.com/open_source)
+
+Or you can watch me stupidly rolling below indefinitely 🤣
 <!--
 **Smankusors/Smankusors** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
